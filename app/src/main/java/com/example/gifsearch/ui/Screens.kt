@@ -126,8 +126,7 @@ fun NotLoadingScreen(
     windowWidth: WindowWidthSizeClass
 ){
     val scrollState = viewModel.scrollState
-    val configuration = LocalConfiguration.current
-    val isLandscape = configuration.orientation == Configuration.ORIENTATION_LANDSCAPE
+
     Box(
         modifier = modifier,
         contentAlignment = Alignment.Center
@@ -203,7 +202,7 @@ fun NotLoadingScreen(
                 .padding(horizontal = 10.dp, vertical = 2.dp)
                 .align(Alignment.BottomStart),
             painter = painterResource(R.drawable.poweredbyofficial2),
-            contentDescription = "Powered by Giphy",
+            contentDescription = "Powered by GIPHY",
         )
     }
 }
@@ -229,7 +228,7 @@ fun ErrorScreen(
                 onRetry()
             }
             Text(
-                text = "Error loading gifs. Try again later.",
+                text = "Error loading GIFs. Try again later.",
             )
         }
     }
