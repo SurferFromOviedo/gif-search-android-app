@@ -69,7 +69,7 @@ To run this project locally, follow these steps:
 <img src="https://github.com/user-attachments/assets/4778a34e-1de2-4377-8447-1636c8d8a09c" alt="immge" width="200"/>
 
 > Sharing GIF with your contacts.
-<img src="https://github.com/user-attachments/assets/3b9fd032-934b-4224-9ba2-52aaa9aceedf" alt="immge" width="200"/>
+<img src="https://github.com/user-attachments/assets/82b438b4-26ce-4aec-a840-dbd29dedaae1" alt="immge" width="200"/>
 
 > GIF grid in landscape mode.
 <img src="https://github.com/user-attachments/assets/2031751b-05c0-4428-ad9c-0c26b3c34624" alt="immge" width="375"/>
