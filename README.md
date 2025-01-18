@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/014cc540-2f84-4e13-b6d8-cd400ff80f89" alt="immge" width="300"/>
+  <img src="https://github.com/user-attachments/assets/838e71ab-798b-46be-b98d-9246b98d30c8" alt="immge" width="300"/>
 </p>
 
 # Express yourself using GIFs!
@@ -63,20 +63,20 @@ To run this project locally, follow these steps:
 ## Screenshots 
 > GIF grid with "funny dancing cats" search query.
 > In the lower left corner "Powered By GIPHY" banner is located at the request of GIPHY.
-<img src="https://github.com/user-attachments/assets/e5e3e55e-07ed-43d5-90b6-54ebee93636d" alt="immge" width="200"/>
+<img src="https://github.com/user-attachments/assets/833e41c5-9300-44f8-9d48-5e21814c044b" alt="immge" width="200"/>
 
 > Clicking on a GIF in the grid opens GIF in its original size.
-<img src="https://github.com/user-attachments/assets/59fb420d-34cb-4207-9a87-0df23f75f064" alt="immge" width="200"/>
+<img src="https://github.com/user-attachments/assets/4778a34e-1de2-4377-8447-1636c8d8a09c" alt="immge" width="200"/>
 
 > Sharing GIF with your contacts.
-<img src="https://github.com/user-attachments/assets/d7250db4-a384-4581-a870-1b1cdbb99e35" alt="immge" width="200"/>
+<img src="https://github.com/user-attachments/assets/3b9fd032-934b-4224-9ba2-52aaa9aceedf" alt="immge" width="200"/>
 
 > GIF grid in landscape mode.
-<img src="https://github.com/user-attachments/assets/b51a3651-3fd2-48a7-a839-f8aedbe4eac2" alt="immge" width="375"/>
+<img src="https://github.com/user-attachments/assets/2031751b-05c0-4428-ad9c-0c26b3c34624" alt="immge" width="375"/>
 
 > Network availablity handling. When the network connection returns content downloading will resume automatically.
-<img src="https://github.com/user-attachments/assets/e3db3a32-07e0-4fa1-9430-e5e4c0eee43e" alt="immge" width="200"/>
-<img src="https://github.com/user-attachments/assets/f1f8392b-16b5-4ec8-b066-a4f52016ee73" alt="immge" width="200"/>
+<img src="https://github.com/user-attachments/assets/cf9f7f1a-94a1-4f18-a25d-c8d7978184ad" alt="immge" width="200"/>
+<img src="https://github.com/user-attachments/assets/4c41e9b6-c104-43cb-a326-3685da06603b" alt="immge" width="200"/>
 
 
 > Error screen.
